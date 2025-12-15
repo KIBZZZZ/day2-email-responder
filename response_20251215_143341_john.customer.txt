@@ -1,0 +1,34 @@
+======================================================================
+EMAIL RESPONSE DRAFT
+Generated: 2025-12-15 14:33:41
+======================================================================
+
+To: john.customer@email.com
+Re: Product not working - URGENT
+
+ANALYSIS:
+  TYPE: support
+  SENTIMENT: negative
+  PRIORITY: urgent
+  TONE: frustrated
+
+----------------------------------------------------------------------
+
+DRAFT RESPONSE:
+
+Subject: Re: Product not working - URGENT
+
+Hi [Customer's Name],
+
+Thank you for reaching out, and I’m truly sorry to hear that you’re experiencing issues with our product. I can understand how frustrating it must be when something you were looking forward to doesn’t work as expected, especially after just purchasing it. Your experience is important to us, and I want to help you resolve this as quickly as possible.
+
+Could you please provide me with a few more details about the issue you’re facing? Specifically, any error messages you’ve encountered or steps you’ve already taken to troubleshoot would be really helpful. In the meantime, I’d recommend checking our troubleshooting guide [link to guide], which might offer some immediate solutions. However, I’m committed to ensuring you get this resolved, so once I have more information, I’ll do my best to assist you further.
+
+Thank you for your patience, and I look forward to hearing back from you soon so we can get this sorted out.
+
+Best regards,  
+[Your Name]  
+Customer Support Team  
+[Your Company]  
+
+======================================================================

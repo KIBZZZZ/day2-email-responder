@@ -1,0 +1,68 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "from": "john.customer@email.com",
+      "subject": "Product not working - URGENT",
+      "body": "Hi, I bought your product yesterday and it's not working at all. I've tried everything. This is very frustrating. Please help ASAP!",
+      "type": "support",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "from": "sarah.prospect@company.com",
+      "subject": "Interested in your services",
+      "body": "Hello, I came across your company and I'm interested in learning more about your automation services. Could you send me information about pricing and packages? We're a team of 50 people.",
+      "type": "sales",
+      "priority": "medium"
+    },
+    {
+      "id": 3,
+      "from": "mike.partner@business.com",
+      "subject": "Meeting follow-up",
+      "body": "Hi! Thanks for the great meeting yesterday. As discussed, I'm sending over the documents we talked about. Let me know if you need anything else. Looking forward to working together!",
+      "type": "general",
+      "priority": "low"
+    },
+    {
+      "id": 4,
+      "from": "angry.customer@email.com",
+      "subject": "This is unacceptable!!!",
+      "body": "I've been waiting for 2 WEEKS for a response to my support ticket #12345. This is absolutely unacceptable. I want a refund immediately and I'm going to leave a negative review if this isn't resolved TODAY.",
+      "type": "support",
+      "priority": "urgent"
+    },
+    {
+      "id": 5,
+      "from": "lisa.hr@techcorp.com",
+      "subject": "Interview scheduling",
+      "body": "Dear Candidate, Thank you for your application. We would like to schedule an interview with you. Are you available next Tuesday at 2 PM or Wednesday at 10 AM? Please confirm your availability.",
+      "type": "general",
+      "priority": "medium"
+    },
+    {
+      "id": 6,
+      "from": "newsletter@marketing.com",
+      "subject": "Weekly Newsletter - New Features!",
+      "body": "Check out our latest features! This week we released 3 amazing updates. Click here to learn more. Don't miss our special offer ending soon!",
+      "type": "newsletter",
+      "priority": "low"
+    },
+    {
+      "id": 7,
+      "from": "client.request@business.com",
+      "subject": "Can you help with custom integration?",
+      "body": "Hi there, we're using your platform and love it! However, we need a custom integration with Salesforce. Do you offer custom development services? What would be the timeline and cost for something like this?",
+      "type": "sales",
+      "priority": "high"
+    },
+    {
+      "id": 8,
+      "from": "happy.customer@email.com",
+      "subject": "Thank you!",
+      "body": "I just wanted to say thank you so much for the excellent customer service. Your team went above and beyond to help me. You've earned a customer for life!",
+      "type": "feedback",
+      "priority": "low"
+    }
+  ]
+}
