@@ -328,8 +328,10 @@ Customer Support Team
 
 ## 📞 Contact & Portfolio
 
-GitHub: [Your username]/ai-automation-marathon  
-Project Demo: [Link to demo video]  
-LinkedIn: [Your profile]
+GitHub: https://github.com/KIBZZZZ 
+Project Demo: https://vimeo.com/1146544712?share=copy&fl=sv&fe=ci 
+LinkedIn: www.linkedin.com/in/victor-ai-automations
+
+
 
 *Built as part of a 35-day intensive AI automation bootcamp*
